@@ -1,4 +1,4 @@
-# Raspberry Setup
+# Raspberry VNC Setup
 
 ## Raspberry aufsetzen
 
