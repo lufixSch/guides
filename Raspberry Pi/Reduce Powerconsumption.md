@@ -46,6 +46,21 @@ dtparam=pwr_led_activelow=off
 
 ### Raspberry Pi 4
 
+```sh
+# Disable 
+#led1 => Power led red
+#led0 => Stauts led green
+$ echo none | sudo tee /sys/class/leds/led0/trigger
+$ echo gpio | sudo tee /sys/class/leds/led1/trigger
+
+#Enable
+#led1 => Power led red
+#led0 => Stauts led green
+$ echo mmc0 | sudo tee /sys/class/leds/led0/trigger
+$ echo input | sudo tee /sys/class/leds/led1/trigger
+
+```
+
 ### Raspberry Pi Zero W
 
 Der Raspberry Pi Zero besitzt nur eine LED, welche wie folgt deaktiviert werden kann:
