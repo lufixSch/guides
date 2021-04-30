@@ -2,14 +2,11 @@
 
 Guides for different technical problems
 
-## Inhalt
-
 ### Latex
 
 - [Basics](Latex/Basics.md)
 - [Distro](Latex/Distro.md)
 - [Editor](Latex/Editor.md)
-  - [VSCode](Latex/VSCode.md)
 
 ### Raspberry Pi
 
