@@ -55,7 +55,11 @@ dtparam=pwr_led_activelow=off
 ### Raspberry Pi 4
 
 ```sh
+<<<<<<< HEAD
 # Disable
+=======
+# Disable
+>>>>>>> 6e61ecd6b61a37f611e97d56edac0ce633b36453
 #led1 => Power led red
 #led0 => Stauts led green
 $ echo none | sudo tee /sys/class/leds/led0/trigger

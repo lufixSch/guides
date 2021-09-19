@@ -1,8 +1,5 @@
 {
-  "cSpell.ignoreWords": [
-    "latexmk"
-  ],
-  "cSpell.words": [
-    "strg"
-  ]
+  "cSpell.ignoreWords": ["latexmk"],
+  "cSpell.words": ["strg"],
+  "restructuredtext.confPath": ""
 }
