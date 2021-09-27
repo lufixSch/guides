@@ -16,8 +16,8 @@ Um Latex verwenden zu können, brauchst du zwei Dinge: Einen Editor und einen Di
 
 ## Latex Distro
 
-Wie du eine Latex Distribution einrichtest findest du [hier](./Distro)
+Wie du eine Latex Distribution einrichtest findest du [hier](distro)
 
 ## Latex Editor
 
-Wie du einen Latex Editor aufsetzt findest du [hier](./Editor)
+Wie du einen Latex Editor aufsetzt findest du [hier](editor)

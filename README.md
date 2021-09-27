@@ -12,20 +12,20 @@ Guides for different technical problems
 
 ### Latex
 
-- [Basics](Latex/Basics)
-- [Distro](Latex/Distro)
-- [Editor](Latex/Editor)
+- [Basics](latex/basics)
+- [Distro](latex/distro)
+- [Editor](latex/editor)
 
 ### Raspberry Pi
 
-- [Boot from SSD](Raspberry%20Pi/Raspberry%20boot%20from%20SSD)
-- [VNC with Raspbian Lite](Raspberry%20Pi/Raspbian%20with%20vnc)
-- [GitLab in Docker](Raspberry%20Pi/GitLab%20in%20Docker%20on%20Pi)
-- [Reduce Powerconsumption](Raspberry%20Pi/Reduce%20Powerconsumption)
+- [Boot from SSD](raspberry%20pi/raspberry%20boot%20from%20ssd)
+- [VNC with Raspbian Lite](raspberry%20pi/raspbian%20with%20vnc)
+- [GitLab in Docker](raspberry%20pi/gitlab%20in%20docker%20on%20pi)
+- [Reduce Powerconsumption](raspberry%20pi/reduce%20powerconsumption)
 
 ### Linux
 
-- [Change Docker storage location](Linux/Docker%20storage%20location)
+- [Change Docker storage location](linux/docker%20storage%20location)
 
 ### Microcontroller
 
