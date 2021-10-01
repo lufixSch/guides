@@ -1,6 +1,6 @@
 ---
 layout: lufix
-title: Latex Editor
+title: Editor
 permalink: guides/latex/editor
 parent: Latex
 grand_parent: Guides
