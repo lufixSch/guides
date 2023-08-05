@@ -1,11 +1,3 @@
----
-layout: lufix
-title: Docker Storage Location
-permalink: guides/linux/docker%20storage%20location
-parent: Linux
-grand_parent: Guides
----
-
 # Speicherort von Docker Images ändern
 
 Guide von [hier](https://evodify.com/change-docker-storage-location/)

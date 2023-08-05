@@ -1,12 +1,3 @@
----
-layout: lufix
-title: Editor
-permalink: guides/latex/editor
-parent: Latex
-grand_parent: Guides
-nav_order: 2
----
-
 # Latex Editor
 
 Grundsätzlich kann jeder Texteditor benutzt werden um Latex zu schreiben. Ich empfehle jedoch den Editor [Visual Studio Code](https://code.visualstudio.com). Eine Alternative wäre der auf Latex angepasste Editor [TexMaker](https://www.xm1math.net/texmaker/).

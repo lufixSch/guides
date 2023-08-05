@@ -1,11 +1,3 @@
----
-layout: lufix
-title: Boot from SSD
-permalink: guides/raspberry%20pi/raspberry%20boot%20from%20ssd
-parent: Raspberry Pi
-grand_parent: Guides
----
-
 # Raspberry Pi boot from SSD
 
 ## Möglichkeit 1

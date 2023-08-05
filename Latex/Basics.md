@@ -1,11 +1,3 @@
----
-layout: lufix
-title: Latex
-permalink: guides/latex/basics
-parent: Guides
-has_children: true
----
-
 # Latex Getting Started
 
 Leitfaden zum Aufsetzen von Latex und dem editieren deines ersten Dokuments

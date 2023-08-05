@@ -1,12 +1,3 @@
----
-layout: lufix
-title: Document
-permalink: guides/latex/document
-parent: Latex
-grand_parent: Guides
-nav_order: 3
----
-
 # Latex Dokument
 ## Syntax
 

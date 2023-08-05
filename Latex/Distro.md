@@ -1,12 +1,3 @@
----
-layout: lufix
-title: Distro
-permalink: guides/latex/distro
-parent: Latex
-grand_parent: Guides
-nav_order: 1
----
-
 # Latex Distro
 
 Es gibt viele verschiedene Latex Distributionen.

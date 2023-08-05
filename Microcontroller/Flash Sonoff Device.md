@@ -1,11 +1,3 @@
----
-layout: lufix
-title: Flash Sonoff device
-permalink: guides/microcontroller/flash%20sonoff%20device
-parent: Microcontroller
-grand_parent: Guides
----
-
 # Flash Sonoff Device
 
 ## Schaltung

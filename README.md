@@ -1,11 +1,3 @@
----
-layout: lufix
-title: Guides
-permalink: /guides/
-has_children: true
-has_toc: false
----
-
 # Guides
 
 Guides for different technical problems

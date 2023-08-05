@@ -1,11 +1,3 @@
----
-layout: lufix
-title: VNC
-permalink: guides/raspberry%20pi/raspbian%20with%20vnc
-parent: Raspberry Pi
-grand_parent: Guides
----
-
 # Raspberry VNC Setup
 
 ## Raspberry aufsetzen
